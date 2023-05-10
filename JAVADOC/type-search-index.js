@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"control","l":"Alimento"},{"p":"service","l":"AlimentoService"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"control","l":"Controlador"},{"p":"utils","l":"TransformarSql"},{"p":"utils","l":"UtilidadesAlimentos"},{"p":"utils","l":"UtilidadesGUI"}];updateSearchResults();
